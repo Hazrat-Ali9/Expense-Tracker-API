@@ -36,7 +36,7 @@ Supported filter query parameters are `type`, `category`, `minimum_amount`, and
 /transactions/filter?type=expense&category=Food&minimum_amount=100
 ```
 
-## Run with Dockers
+## Run with Docker
 
 Docker Compose starts both the API and PostgreSQL:
 
